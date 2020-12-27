@@ -16,16 +16,17 @@
 img{
 	max-width: auto;
 	max-height: auto;
+	margin: 20px 0 15px;
 	border: 3px solid #000;
 }
 
 a{
 	text-decoration: none;
-	color: #23374d;
+	color: #295fab;
 	transition: 0.3s;
 }
 
 a:hover{
 	text-decoration: underline;
-	color: #017eb1;
+	color: #067eed;
 }
