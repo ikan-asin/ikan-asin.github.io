@@ -18,12 +18,12 @@ img{
 	max-height: auto;
 	margin: 15px 0 10px;
 	border: 3px solid #000;
+	border-radius: 50%;
 }
 
 a{
 	text-decoration: none;
 	color: #295fab;
-	transition: 0.3s;
 }
 
 a:hover{
